@@ -1,5 +1,5 @@
 name: VillageInfo
-main: cl.netgamer.villageinfo.Main
+main: cl.netgamer.villageinfo.VillageInfo
 version: 7
 
 commands:
